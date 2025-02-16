@@ -1,0 +1,3 @@
+My file here! --Hello Git
+And second row 
+Plus 3rd row
